@@ -1,3 +1,6 @@
+# Demo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hUb1yoDHlrg/0.jpg)](https://www.youtube.com/watch?v=hUb1yoDHlrg)
+
 # Project Description
 HoloIoT is a project aimed to help factory workers by combining augmented reality and IoT. It allows a user to identify an IoT device, query its telemetry, and visualize the data as holograms. In doing so, a worker can view telemetry live, hands-free, and at the location of the device. This is a drastic improvement over the status quo where workers either use hand-held devices or go to a control room to view telemetry.  
 
